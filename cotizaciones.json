@@ -1,0 +1,211 @@
+[
+    {
+        "Marca": "Chevrolet",
+        "Modelos": [
+            {
+                "Nombre": "Sonic",
+                "Variantes": [
+                    { "Año": 2016, "Tarifa": 20 },
+                    { "Año": 2019, "Tarifa": 20 },
+                    { "Año": 2021, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Onix",
+                "Variantes": [
+                    { "Año": 2018, "Tarifa": 20 },
+                    { "Año": 2020, "Tarifa": 30 },
+                    { "Año": 2022, "Tarifa": 30 }
+                  ]
+            },
+            {
+                "Nombre": "Camaro",
+                "Variantes": [
+                    { "Año": 2017, "Tarifa": 20 },
+                    { "Año": 2019, "Tarifa": 20 },
+                    { "Año": 2021, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Equinox",
+                "Variantes": [
+                    { "Año": 2018, "Tarifa": 20 },
+                    { "Año": 2020, "Tarifa": 30 },
+                    { "Año": 2022, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Cruze",
+                "Variantes": [
+                    { "Año": 2019, "Tarifa": 20 },
+                    { "Año": 2020, "Tarifa": 30 },
+                    { "Año": 2021, "Tarifa": 30 }
+                ]
+            }
+        ]
+    },
+    {
+        "Marca": "Ford",
+        "Modelos": [
+            {
+                "Nombre": "Fiesta",
+                "Variantes": [
+                    { "Año": 2015, "Tarifa": 20 },
+                    { "Año": 2018, "Tarifa": 20 },
+                    { "Año": 2020, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Kuga",
+                "Variantes": [
+                    { "Año": 2019, "Tarifa": 20 },
+                    { "Año": 2021, "Tarifa": 30 },
+                    { "Año": 2023, "Tarifa": 30 }
+                  ]
+            },
+            {
+                "Nombre": "Mustang",
+                "Variantes": [
+                    { "Año": 2017, "Tarifa": 20 },
+                    { "Año": 2019, "Tarifa": 20 },
+                    { "Año": 2021, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Ka",
+                "Variantes": [
+                    { "Año": 2017, "Tarifa": 20 },
+                    { "Año": 2019, "Tarifa": 20 },
+                    { "Año": 2021, "Tarifa": 30 }
+                ]
+            }
+        ]
+    },
+    {
+      "Marca": "Volkswagen",
+      "Modelos": [
+            {
+                "Nombre": "Suran",
+                "Variantes": [
+                    { "Año": 2017, "Tarifa": 20 },
+                    { "Año": 2019, "Tarifa": 20 },
+                    { "Año": 2021, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Amarok",
+                "Variantes": [
+                    { "Año": 2018, "Tarifa": 20 },
+                    { "Año": 2020, "Tarifa": 30 },
+                    { "Año": 2022, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Vento",
+                "Variantes": [
+                    { "Año": 2017, "Tarifa": 20 },
+                    { "Año": 2019, "Tarifa": 20 },
+                    { "Año": 2021, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Golf",
+                "Variantes": [
+                    { "Año": 2016, "Tarifa": 20 },
+                    { "Año": 2018, "Tarifa": 20 },
+                    { "Año": 2020, "Tarifa": 30 }
+                ]
+            },
+            {
+                "Nombre": "Gol",
+                "Variantes": [
+                    { "Año": 2015, "Tarifa": 20 },
+                    { "Año": 2017, "Tarifa": 20 },
+                    { "Año": 2019, "Tarifa": 20 }
+                ]
+            }
+        ]
+    },
+    {
+      "Marca": "Renault",
+      "Modelos": [
+          {
+              "Nombre": "Logan",
+              "Variantes": [
+                  { "Año": 2016, "Tarifa": 20 },
+                  { "Año": 2019, "Tarifa": 20 },
+                  { "Año": 2022, "Tarifa": 30 }
+              ]
+          },
+          {
+              "Nombre": "Sandero",
+              "Variantes": [
+                  { "Año": 2017, "Tarifa": 20 },
+                  { "Año": 2020, "Tarifa": 30 },
+                  { "Año": 2023, "Tarifa": 30 }
+              ]
+          },
+          {
+              "Nombre": "Alaskan",
+              "Variantes": [
+                  { "Año": 2019, "Tarifa": 20 },
+                  { "Año": 2021, "Tarifa": 30 },
+                  { "Año": 2023, "Tarifa": 30 }
+              ]
+          },
+          {
+              "Nombre": "Captur",
+              "Variantes": [
+                  { "Año": 2018, "Tarifa": 20 },
+                  { "Año": 2020, "Tarifa": 30 },
+                  { "Año": 2022, "Tarifa": 30 }
+              ]
+          }
+      ]
+    },
+    {
+      "Marca": "Fiat",
+      "Modelos": [
+          {
+              "Nombre": "500",
+              "Variantes": [
+                  { "Año": 2015, "Tarifa": 20 },
+                  { "Año": 2018, "Tarifa": 20 },
+                  { "Año": 2021, "Tarifa": 20 }
+              ]
+          },
+          {
+              "Nombre": "Punto",
+              "Variantes": [
+                  { "Año": 2017, "Tarifa": 20 },
+                  { "Año": 2019, "Tarifa": 20 },
+                  { "Año": 2022, "Tarifa": 30 }
+              ]
+          },
+          {
+            "Nombre": "Strada",
+            "Variantes": [
+                { "Año": 2017, "Tarifa": 20 },
+                { "Año": 2019, "Tarifa": 20 },
+                { "Año": 2021, "Tarifa": 30 }
+            ]
+        },
+        {
+            "Nombre": "Cronos",
+            "Variantes": [
+                { "Año": 2018, "Tarifa": 20 },
+                { "Año": 2020, "Tarifa": 30 },
+                { "Año": 2022, "Tarifa": 30 }
+            ]
+        },
+        {
+            "Nombre": "Palio",
+            "Variantes": [
+                { "Año": 2016, "Tarifa": 20 },
+                { "Año": 2018, "Tarifa": 20 },
+                { "Año": 2020, "Tarifa": 30 }
+            ]
+        }
+      ]
+    }
+  ]

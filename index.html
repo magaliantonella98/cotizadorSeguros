@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cotizador de Seguros de Automóviles</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        <h1>Cotizador de Seguros de Automóviles</h1>
+        <form id="insuranceForm">
+            <div class="form-group">
+                <select id="marca">
+                    <option>Selecciona una Marca</option>
+                    <!-- Opciones de marca se cargarán aquí -->
+                </select>
+            
+                <select id="modelo" disabled>
+                    <option>Selecciona un Modelo</option>
+                    <!-- Opciones de modelo se cargarán aquí -->
+                </select>
+            
+                <select id="año" disabled>
+                    <option>Selecciona un Año</option>
+                    <!-- Opciones de año se cargarán aquí -->
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="coverageType">Tipo de Cobertura:</label>
+                <select id="coverageType">
+                  <option value="cobertura_basica">Cobertura Básica</option>
+                  <option value="cobertura_premium">Cobertura Premium</option>
+                </select>
+            </div>
+            <div class="form-group">
+                <button type="submit">Calcular Cotización</button>
+            </div>
+            <div id="quoteResult" class="hidden">
+                <h2>Resultado de la Cotización</h2>
+                <p id="quoteInfo"></p>
+                <p id="dollarInfo"></p>
+            </div>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
